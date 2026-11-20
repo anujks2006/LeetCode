@@ -26,6 +26,7 @@ LeetCode Questions
 | [0027-remove-element](https://github.com/anujks2006/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/anujks2006/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anujks2006/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/anujks2006/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anujks2006/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/anujks2006/LeetCode/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/anujks2006/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -52,4 +53,8 @@ LeetCode Questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anujks2006/LeetCode/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/anujks2006/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
