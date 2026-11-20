@@ -9,6 +9,7 @@ LeetCode Questions
 | [0015-3sum](https://github.com/anujks2006/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/anujks2006/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anujks2006/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anujks2006/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anujks2006/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
@@ -16,6 +17,7 @@ LeetCode Questions
 | [0015-3sum](https://github.com/anujks2006/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/anujks2006/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anujks2006/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anujks2006/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anujks2006/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
