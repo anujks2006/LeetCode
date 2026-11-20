@@ -12,6 +12,7 @@ LeetCode Questions
 | [0027-remove-element](https://github.com/anujks2006/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anujks2006/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anujks2006/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/anujks2006/LeetCode/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,6 +22,7 @@ LeetCode Questions
 | [0027-remove-element](https://github.com/anujks2006/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anujks2006/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anujks2006/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/anujks2006/LeetCode/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
